@@ -1,4 +1,4 @@
-# 🔖 Bookmarks Manager Extension
+# Bookmarks Manager Extension
 
 **Bookmarks Manager** is a lightweight yet powerful browser extension that helps you **organize, search, and manage your bookmarks effortlessly**.  
 Say goodbye to messy bookmark lists and hello to a clean, stress-free workflow ✨
